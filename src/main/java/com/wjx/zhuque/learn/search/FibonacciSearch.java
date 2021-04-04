@@ -1,4 +1,4 @@
-package com.wjx.zhuque.algorithm.search;
+package com.wjx.zhuque.learn.search;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.wjx.zhuque.algorithm.sort;
+package com.wjx.zhuque.learn.sort;
 
 import com.wjx.qilin.enumeration.OrderEnum;
 

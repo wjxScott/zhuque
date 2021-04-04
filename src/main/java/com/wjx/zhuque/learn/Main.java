@@ -1,4 +1,4 @@
-package com.wjx.zhuque.algorithm;
+package com.wjx.zhuque.learn;
 
 
 import com.wjx.osiris.braum.algorithm.search.InsertionSearch;

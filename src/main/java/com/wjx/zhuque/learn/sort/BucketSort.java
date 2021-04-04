@@ -1,4 +1,4 @@
-package com.wjx.zhuque.algorithm.sort;
+package com.wjx.zhuque.learn.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
