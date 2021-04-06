@@ -1,6 +1,7 @@
 package com.wjx.zhuque.leetcode.leetcode206;
 
-import com.wjx.osiris.braum.leetcode.ListNode;
+
+import com.wjx.zhuque.leetcode.ListNode;
 
 /**
  * @author wangjinxin
