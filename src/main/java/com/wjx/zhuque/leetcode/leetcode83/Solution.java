@@ -1,4 +1,4 @@
-package com.wjx.zhuque.leetcode.leetcode083;
+package com.wjx.zhuque.leetcode.leetcode83;
 
 
 import com.wjx.zhuque.leetcode.ListNode;

@@ -1,4 +1,4 @@
-package com.wjx.zhuque.leetcode.leetcode002;
+package com.wjx.zhuque.leetcode.leetcode2;
 
 import com.wjx.osiris.braum.leetcode.ListNode;
 

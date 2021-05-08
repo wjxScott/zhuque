@@ -1,4 +1,4 @@
-package com.wjx.zhuque.leetcode.leetcode007;
+package com.wjx.zhuque.leetcode.leetcode7;
 
 /**
  * @author wangjinxin

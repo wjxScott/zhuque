@@ -1,4 +1,4 @@
-package com.wjx.zhuque.leetcode.leetcode001;
+package com.wjx.zhuque.leetcode.leetcode1;
 
 import java.util.HashMap;
 
