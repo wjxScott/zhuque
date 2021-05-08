@@ -1,7 +1,7 @@
 package com.wjx.zhuque.leetcode.leetcode94;
 
 
-import com.wjx.osiris.braum.leetcode.TreeNode;
+import com.wjx.zhuque.leetcode.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
