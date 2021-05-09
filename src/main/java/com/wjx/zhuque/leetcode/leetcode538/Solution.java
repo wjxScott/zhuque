@@ -1,6 +1,7 @@
 package com.wjx.zhuque.leetcode.leetcode538;
 
-import com.wjx.osiris.braum.leetcode.TreeNode;
+
+import com.wjx.zhuque.leetcode.TreeNode;
 
 /**
  * @author wangjinxin
