@@ -1,6 +1,7 @@
 package com.wjx.zhuque.leetcode.leetcode2;
 
-import com.wjx.osiris.braum.leetcode.ListNode;
+
+import com.wjx.zhuque.leetcode.ListNode;
 
 /**
  * @author wangjinxin
@@ -8,7 +9,7 @@ import com.wjx.osiris.braum.leetcode.ListNode;
  * @mail wjxScott@iCloud.com
  * @description
  */
-public class Solution {
+public class Solution1 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = null;
         ListNode tail = null;
